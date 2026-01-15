@@ -1,0 +1,5 @@
+{
+  "name": "Daegu/Gyeongbuk Youth Policy Agent",
+  "description": "A smart agent that recommends the top 5 youth policies in Daegu & Gyeongbuk based on user profile using Gemini API.",
+  "requestFramePermissions": []
+}
